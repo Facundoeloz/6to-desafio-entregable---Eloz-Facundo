@@ -1,0 +1,20 @@
+.header{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__img{
+        margin-left: 1rem;
+    }
+    &__ul{
+        display: flex;
+        list-style: none;
+        li{
+            padding: 1rem;
+        }
+        a{
+            color: black;
+            text-decoration: none;
+        }
+    }
+}
