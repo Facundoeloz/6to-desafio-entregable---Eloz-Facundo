@@ -12,6 +12,8 @@
   margin: 10px; }
 
 .giftcard {
-  color: red; }
+  color: #c2d849;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium; }
   .giftcard p {
-    color: aqua; }
+    color: black; }

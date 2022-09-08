@@ -1,0 +1,3 @@
+-keywords: Boré, bikinis, verano, calor, enteras, vestir
+-Description: Comprá productos de Boré Bikinis por internet. Tenemos sale online 70% off, sale online 50% off y más. Hacé tu pedido, pagalo online y recibilo donde mas quieras"
+-mixin: Creamos un mixin para el h1 del main

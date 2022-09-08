@@ -1,0 +1,12 @@
+//extend
+%gift-card-style{
+    font-family: $font-typo;
+    color: $color-h1;
+}
+
+
+//mixin
+@mixin titulo-regala-boré{
+    font-family: $font-typo;
+    color: $color-h1;
+}

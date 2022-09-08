@@ -1,3 +1,7 @@
+@import "./variables/extend";
+@import "./variables/variable";
+
+
 *{
     padding: 0;
     margin: 0;
@@ -14,8 +18,15 @@
     margin: 10px;
 }
 
+h1{
+    @include titulo-regala-boré
+}
+
 .giftcard{
-    color: red;
-    p{color: aqua;}
+    color:$gift-card;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    p{color: rgb(0, 0, 0);}
+    
    
 }
